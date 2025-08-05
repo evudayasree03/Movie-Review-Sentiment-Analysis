@@ -1,0 +1,18 @@
+Data Preparation (Preprocessing):
+
+1. Tokenization: Breaking down a text into smaller units(tokens) such as words, phrases or subunit words( eg: ss ="I love mangoes, tokens: ['I','love', 'mangoes'])
+2. Lowercasing: Convert all text to lowercase for uniformity
+3. Stopword Removal: Eliminating common words()
+4. Punctuation Removal
+
+step 2:
+stemming/Lemmatization : Reducing words to their base or root from 
+(e.g., "running," "ran," "runs" to "run").
+Lemmatization is more sophisticated as it considers
+context.
+
+step 3:
+Stopword Removal: Eliminating common words (e.g., "the," "is," "and") that often carry little semantic meaning.
+Punctuation Removal: Removal Punctuation marks.
+
+Text Normalization: Standardizing text format, including handling spell
